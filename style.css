@@ -1,0 +1,13 @@
+.Calculatrice
+{
+    display: flex;
+
+}
+
+
+.reponse
+{
+    border: 2px solid black;
+    width:5%;
+    margin-left:20px ;
+}
